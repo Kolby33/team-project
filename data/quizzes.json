@@ -1,0 +1,30 @@
+[
+  {
+    "id": "quiz-001",
+    "name": "General Knowledge Warmup",
+    "questions": [
+      {
+        "text": "What is the capital of France?",
+        "choices": ["Berlin", "Madrid", "Paris", "Rome"],
+        "correctIndex": 2,
+        "category": "Geography",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Which planet is known as the Red Planet?",
+        "choices": ["Venus", "Mars", "Jupiter", "Mercury"],
+        "correctIndex": 1,
+        "category": "Science",
+        "difficulty": "easy"
+      },
+      {
+        "text": "How many sides does a hexagon have?",
+        "choices": ["5", "6", "7", "8"],
+        "correctIndex": 1,
+        "category": "Mathematics",
+        "difficulty": "medium"
+      }
+    ],
+    "createdAt": 1760000000000
+  }
+]
